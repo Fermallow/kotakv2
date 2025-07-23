@@ -5,6 +5,7 @@ Version : Java 1.21.8
  - Explorify
  - Floodgate
  - Geyser
+ - Lithium
  - Structory
  - Structory : Towers
  - TAB
